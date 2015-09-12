@@ -44,5 +44,5 @@ Run this then navigate your browser to `localhost:8080`. Now make some changes
 to either the JS or styles (say, add an `alert('derp');` to `src/index.js` and 
 notice the automatic rebuilding and reloading. Cool.
 
-Run `npm run serve` along with `npm test-watch` and you're TDDing, stuff is 
+Run `npm run serve` along with `npm run test-watch` and you're TDDing, stuff is 
 interactive, stuff is agile.
