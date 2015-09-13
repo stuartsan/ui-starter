@@ -34,7 +34,7 @@ And do stuff:
 
 `npm run lint`: run eslint
 
-`npm run bundle`: bundle JS/CSS for browser, output goes to `out/bundle.js`.
+`npm run bundle`: bundle JS/CSS for browser, output goes to `public/bundle.js`.
 
 `npm run serve`: (**best command**)  
 Fire up a webpack-dev-server that serves the HTML index page, watches source 

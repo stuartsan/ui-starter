@@ -3,8 +3,8 @@ module.exports = {
     app: [ 'webpack/hot/dev-server', './src/index.js' ]
   },
   output: {
-    path: __dirname + '/out',
-    publicPath: '/out',
+    path: __dirname + '/public',
+    publicPath: '/',
     filename: 'bundle.js'
   },
   module: {

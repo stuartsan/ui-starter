@@ -8,7 +8,7 @@
     "test-watch": "mocha --watch --compilers js:babel/register",
     "lint": "eslint src**; exit 0",
     "bundle": "webpack",
-    "serve": "webpack-dev-server --hot"
+    "serve": "webpack-dev-server --content-base public/ --hot"
   },
   "repository": {
     "type": "git",
